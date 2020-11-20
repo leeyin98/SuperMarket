@@ -1,0 +1,7 @@
+ITransaction=com.leeyin98.ts.impl.TransactionImpl
+BillDAO=com.leeyin98.dao.impl.BillDAOImpl
+BillService=com.leeyin98.service.impl.BillServiceImpl
+SupplierDAO=com.leeyin98.dao.impl.SupplierDAOImpl
+SupplierService=com.leeyin98.service.impl.SupplierServiceImpl
+UserDAO=com.leeyin98.dao.impl.UserDAOImpl
+UserService=com.leeyin98.service.impl.UserServiceImpl
